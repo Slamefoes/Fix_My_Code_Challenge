@@ -6,7 +6,7 @@ I was tasked with debugging multiple programs for a project that ALX delivered. 
 * [0x00. Fix my code](./0x00-challenge)
 
 ## Author🖊️:
-* **[Adeeyo Michael](https://twitter.com/ademic_code)** <[Ademic2022](https://github.com/ademic2022)>
+* **[Oluwaseun Oluyemi](https://twitter.com/)** <[Slamefoes](https://github.com/slamefoes)>
 
 ## Acknowledgements :pray:
 
